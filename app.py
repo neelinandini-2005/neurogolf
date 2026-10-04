@@ -51,7 +51,7 @@ st.markdown("""
     .info-box {
         padding: 15px;
         border-radius: 10px;
-        background-color: #f7f7f7;
+        background-color: black;
         margin-top: 20px;
     }
 </style>
