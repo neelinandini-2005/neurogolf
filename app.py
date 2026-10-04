@@ -39,7 +39,7 @@ st.markdown("""
         border-radius: 15px;
         text-align: center;
         margin-top: 25px;
-        background-color: #f0f7ff;
+        background-color: black;
         border: 1px solid #cfe3ff;
     }
 
